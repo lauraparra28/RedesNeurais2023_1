@@ -11,7 +11,7 @@
 ## Informações
 
 - **Disciplina:** Redes Neurais
-- **Professor:** Prof. Dr. Marley Vellasco
+- **Professor:** Prof. Dr. Marley Vellasco & Prof. Thiago Medeiros
 - **Aluno:** [Laura M. Parra Navarro](http://lattes.cnpq.br/9864368692445121)
 - **Período:** 2023/1
 
