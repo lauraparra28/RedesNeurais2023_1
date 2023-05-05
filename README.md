@@ -20,6 +20,6 @@
 
 | Lista | Descrição | Data entrega | Link |
 | :---: | :---: | :---: | :---: |
-| Lista 1 | Classificação de padrões | 04/05/2023 | [Lista 1](https://github.com/lauraparra28/RedesNeurais2023_1/tree/main/Lista%201) |
+| Lista 1 | Classificação de padrões | 05/05/2023 | [Lista 1](https://github.com/lauraparra28/RedesNeurais2023_1/tree/main/Lista%201) |
 | Lista 2 |  -  | -  |[Lista 2]() |
 | Lista 3 |  -  | -  |[Lista 3]() |
