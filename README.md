@@ -21,5 +21,5 @@
 | Lista | Descrição | Data entrega | Link |
 | :---: | :---: | :---: | :---: |
 | Lista 1 | Classificação de padrões | 05/05/2023 | [Lista 1](https://github.com/lauraparra28/RedesNeurais2023_1/tree/main/Lista%201) |
-| Lista 2 |  Previsão Series Temporais  | 02/06/2023  |[Lista 2](https://colab.research.google.com/drive/10xjF9T9-3klG07UGyRgQAFZ_Cv_JpBr1?usp=sharing) |
-| Lista 3 |  -  | -  |[Lista 3]() |
+| Lista 2 | Previsão Series Temporais  | 02/06/2023  |[Lista 2](https://colab.research.google.com/drive/10xjF9T9-3klG07UGyRgQAFZ_Cv_JpBr1?usp=sharing) |
+| Lista 3 | Mapa de Kohonen | 16/06/2023  |[Lista 3]() |
